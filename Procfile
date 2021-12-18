@@ -1,1 +1,0 @@
-worker i npm start
